@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Exercise2</string>
+    <string name="namamhs">Nama Mahasiswa</string>
+    <string name="nim">NIM</string>
+    <string name="konsen">Konsentrasi</string>
+    <string name="judul">Judul Skripsi</string>
+    <string name="dosen1">Haris Setiawan</string>
+    <string name="dosen2">Dwi Djoko P</string>
+    <string name="dosen3">Aprilia Kurniati</string>
+    <string name="back_button">Kembali</string>
+    <string name="confirm">Konfirmasi</string>
+    <string name="next">Lanjut</string>
+    <string name="cancel">Batal</string>
+    <string name="order_summary">Ringkasan Order</string>
+    <string name="send">Send Order to Another App</string>
+    <string name="quantity">Jumlah</string>
+    <string name="flavor">Rasa</string>
+    <string name="subtotal_price">Subtotal : Rp. %s</string>
+    <string name="total_price">Total %s</string>
+    <string name="btn_submit">Submit</string>
+    <string name="btn_back">Back</string>
+    <string name="data">Data Mahasiswa</string>
+</resources>
